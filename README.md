@@ -1,6 +1,6 @@
 # Project 8: Food Delivery Operations Analytics
 
-**Student:** Daksh Agarwal | **Student ID:** 2026b03110270
+**Student:** Daksh Agarwal | **Student ID:** 2026b03110270 | **College:** ABES Engineering College, Ghaziabad (B.Tech ECE)
 **Course:** Python, NumPy & Pandas, Five-Day Engineering Student Training (First Year, First Semester)
 **Industry:** FoodTech / Logistics
 
