@@ -1,0 +1,10 @@
+1. Use one network-wide delivery standard: city averages are very close (35.65 to 36.54 min, a gap of only 0.89 min), so the problem is not one slow city. Gurugram is slowest by a small margin; focus on the long-delivery tail instead, because 19.6% of orders take over 45 min.
+
+2. Add rider capacity at peak hours (10:00, 13:00, 21:00): these three hours carry 23.1% of all orders, which is above an even spread over the 16 active hours (18.8%), so shortages here are most likely to hurt service.
+
+3. Reduce delays in Delhi (delay rate 9.22%) and cancellations in Delhi (cancellation rate 11.11%). Set city-wise targets and track them weekly.
+
+4. Work with Green Bowl, which has the highest delay rate (10.8%), to shorten preparation and handover time, while protecting the top-revenue partner Pizza Point (22.4% of order value).
+
+5. Set about 64 min as an alert limit: deliveries above it are statistical outliers (15 orders). Assign these to a review queue, and keep Card payments smooth, as they bring the most revenue (37.0%).
+

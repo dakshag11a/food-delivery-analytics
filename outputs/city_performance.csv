@@ -1,0 +1,5 @@
+City,Orders,Avg_Delivery_Time_Min,Cancellation_Rate_Pct,Delay_Rate_Pct,Revenue
+Faridabad,585,36.07,8.21,8.89,238010.8
+Gurugram,470,36.54,9.36,8.09,198547.14
+Noida,468,36.0,8.55,8.33,193372.43
+Delhi,477,35.65,11.11,9.22,188782.75
